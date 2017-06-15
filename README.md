@@ -1,5 +1,4 @@
 # docker-selenium-demoapp
-# Docker Selenium Example
 
 ## Create Fresh Docker Engine
 It's recommended to use docker-machine to create a clean engine for this example.
